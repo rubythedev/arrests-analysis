@@ -3,10 +3,10 @@
 ## Project Overview
 The Arrest Analysis Project aims to analyze arrest data to identify trends, patterns, and disparities in arrest rates. By examining demographics, crime types, arrest locations, and outcomes, this project provides insights that can help inform law enforcement practices and criminal justice policies. The analysis was conducted using SQL for data manipulation, Excel for data cleaning, and Tableau for visualizations.
 
-The dataset used in this analysis can be accessed via [data.world](https://data.world/rubyn/ses-demographics-arrests-analysis), and interactive visualizations are available on [Tableau](https://public.tableau.com/app/profile/ruby4573/viz/ArrestsintheUnitedStates/ArrestsintheUnitedStates).
+The dataset used in this analysis can be accessed via [data.world](https://data.world/rubyn/ses-demographics-arrests-analysis/), and interactive visualizations are available on [Tableau](https://public.tableau.com/app/profile/ruby4573/viz/ArrestsintheUnitedStates/ArrestsintheUnitedStates).
 
 ## Dataset
-The analysis is based on the **Arrest Analysis** dataset, which includes detailed records of arrests, offender demographics, offense types, arrest outcomes, and geographic information. The dataset can be accessed via [data.world](https://data.world/rubyn/ses-demographics-arrests-analysis). Data cleaning, normalization, and feature engineering techniques were applied to ensure the analysis is accurate and meaningful.
+The analysis is based on the **Arrest Analysis** dataset, which includes detailed records of arrests, offender demographics, offense types, arrest outcomes, and geographic information. The dataset can be accessed via [data.world](https://data.world/rubyn/ses-demographics-arrests-analysis/). Data cleaning, normalization, and feature engineering techniques were applied to ensure the analysis is accurate and meaningful.
 
 ## Introduction
 This dataset provides a detailed view of arrests across various regions, with a focus on demographic factors, crime types, and the locations where arrests occur. The goal of this analysis is to uncover insights that could improve criminal justice practices, reduce disparities, and optimize resource allocation.
